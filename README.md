@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
-- [Welcome](#welcome-👋)
+- [Welcome](#welcome)
 - [About](#about)
-- [Why "*Seakeep*"?](#why-“seakeep”%3F-🤔)
+- [Why "*Seakeep*"?](#why-seakeep)
 - [Logo Colors](#logo-colors)
-- [What products Seakeep offers?](#what-products-seakeep-offers%3F)
+- [What products Seakeep offers?](#what-products-seakeep-offers)
 
 ## Welcome 👋
 
@@ -31,7 +31,7 @@ the sender and recipient have access to the content being sent.
 
 ## Why "*Seakeep*"? 🤔
 
-For me, the sea brings a peace sensation, a place to stay calm and clean your
+For me, the sea brings a peace feeling, a place to stay calm and clean your
 mind, a place away from people.
 
 The "*keep*" is self-explanatory 😉.
