@@ -63,5 +63,5 @@ All Seakeep **fictitious** products are open source.
   was created using [Figma](https://figma.com).
 - The [logo](./images/logo.png) was created using
   [Inkscape](https://inkscape.org/) and it's free to use.
-- The [introduction image](./images/intro-brackground.png) can be found on 
+- The [introduction image](./images/intro-brackground.jpeg) can be found on 
   [Pexels](https://www.pexels.com/photo/sea-dawn-nature-sunset-5146315/) website.
