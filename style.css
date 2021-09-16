@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  padding: 0.75em;
+  flex-flow: row nowrap;
+}
+header > img {
+  width: 3.125em;
+  height: 3.125em;
+}
+header > h1 {
+  display: inline;
+  font-size: 2.25em;
+  margin-left: 1em;
+}
+
+section {
+  padding: 0 0.8em;
+}
+
+#intro {
+  background: #E7F1EE;
+  color: #05445E;
+}
+
+header,
+#open-source,
+#privacy {
+  background: #05445E;
+  color: #E7F1EE;
+}
+
+footer {
+  background: #E7F1EE;
+  color: #05445E;
+}
+
+.water {
+  background: #05445E;
+}

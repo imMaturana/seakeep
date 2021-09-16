@@ -14,7 +14,7 @@
 
 ## Welcome 👋
 
-Hello, everybody, my name is Gabriel Maturana and I'm a future Web Developer
+Hello, my name is Gabriel Maturana and I'm a future Web Developer
 and Data Scientist, this project is a school exercise to practice my HTML, CSS
 and Javascript knowledges.
 
