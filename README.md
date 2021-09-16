@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".images/logo.png" width="350">
+  <img src="./images/logo.png" width="350">
   <h1 style="font-style:italic;">Seakeep</h1>
   <p style="font-style:italic;">Your privacy in your ocean</p>
 </div>
@@ -11,6 +11,7 @@
 - [Why "*Seakeep*"?](#why-seakeep)
 - [Logo Colors](#logo-colors)
 - [What products Seakeep offers?](#what-products-seakeep-offers)
+- [References](#references)
 
 ## Welcome 👋
 
@@ -56,3 +57,9 @@ Seakeep offers product to keep your users save, so offering products like:
 
 All Seakeep **fictitious** products are open source.
 
+## References
+
+- The [logo](./images/logo.png) was created by me using
+  [Inkscape](https://inkscape.org/) and it's free to use.
+- The [introduction image](./images/intro-brackground.png) can be found on 
+  [Pexels](https://www.pexels.com/photo/sea-dawn-nature-sunset-5146315/) website.
