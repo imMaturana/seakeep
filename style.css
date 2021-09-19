@@ -42,12 +42,38 @@ header,
 }
 
 section {
-  padding: 3rem 0;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100%;
+  padding: calc(10vh + 4vw) 10vw;
+  color: rgba(5, 68, 94, 1);
+}
+section h2 {
+  font-weight: bold;
+}
+section p {
+  line-height: 2.5rem;
+}
+section a {
+  text-decoration: none;
+  color: rgba(24, 180, 155, 1);
 }
 
 #intro {
-  background: url(./images/intro-brackground.jpeg),
-    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(./images/intro-brackground.jpeg) center/cover no-repeat;
+  color: rgba(154, 230, 218, 1);
+  height: calc(80vh + 2vw);
+  justify-content: center;
+  align-items: center;
+}
+#intro > h1 {
+  font-size: 4.375rem;
+  font-weight: bold;
+}
+#intro > p {
+  font-size: 2.125rem;
+  text-align: center;
 }
 
 .content {
