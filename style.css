@@ -135,10 +135,7 @@ footer {
   height: 2.250rem;
 }
 
-@media (max-width: 800px) {
-  :root {
-    font-size: 10px;
-  }
+@media (max-width: 1000px) {
   .content img {
     width: 12rem;
     align-self: center;
