@@ -70,12 +70,41 @@ section {
 
 #open-source img { width: 20rem; }
 #privacy img { width: 10rem; }
+
+footer {
+  display: flex;
+  height: 7.37rem;
+  padding: 0 3vw;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.875rem;
 }
 
-footer > .logo {
+
+.seakeep {
+  display: flex;
+  align-items: center;
+}
+.seakeep .logo {
   width: 2.5em;
   height: 2.5em;
 }
+.seakeep span {
+  margin-left: 2vw;
+}
+
+.social {
+  display: inline;
+  list-style: none;
+}
+.social li {
+  display: inline;
+}
+.social img {
+  width: 2.250rem;
+  height: 2.250rem;
+}
+
 @media (max-width: 800px) {
   :root {
     font-size: 10px;
