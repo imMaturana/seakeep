@@ -76,3 +76,15 @@ footer > .logo {
   width: 2.5em;
   height: 2.5em;
 }
+@media (max-width: 800px) {
+  :root {
+    font-size: 10px;
+  }
+  .content img {
+    width: 12rem;
+    align-self: center;
+  }
+  #privacy img {
+    transform: rotate(90deg);
+  }
+}
